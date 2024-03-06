@@ -1,0 +1,1 @@
+.\objects\arm_startup_nrf5340_application.o: RTE\Device\nRF5340_xxAA_Application\arm_startup_nrf5340_application.s
