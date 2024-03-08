@@ -1,13 +1,13 @@
 #include "nrf5340_application.h"
 #include <stdio.h>
+#include <stdbool.h>
 
-int main()
-{
+int main() {
+
     printf("Hello World");
+    printf("\n")
 
-    printf("\n");
-    if true
-{
-    printf("yes");
+    if (x) {
+        printf("yes");
     }
 }
